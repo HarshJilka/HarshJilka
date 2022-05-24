@@ -10,7 +10,7 @@
 
 ### Contact Me
 <div id="badges">
-  <a href="www.linkedin.com/in/harsh-jilka">
+  <a href="https://www.linkedin.com/in/harsh-jilka">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
