@@ -1,12 +1,11 @@
 ###
 <!-- <img src="https://komarev.com/ghpvc/?username=BhattNisargVijaykumar&style=flat-square&color=blue" alt="Profile Badge"/> -->
-- 👋 Hi, I am Nisarg Bhatt
+- 👋 Hi, I am Harsh Jilka
 - 👀 I'm interrested in Web Development
 - 🌱 I’m currently learning PHP-Magento
-- 👯 I’m looking to collaborate on PHP(Laravel - CodeIgniter)
-- 🤔 I’m looking for help with 
+- 👯 I’m looking to collaborate on Frontend WebDeveloper
 - 💬 Ask me about Anything
-- 📫 How to reach me: bhattnisargv@gmail.com
+- 📫 How to reach me: iharshjilka.34@gmail.com
 - ⚡ Fun fact: I'm fresher and I love to learn new things.
 
 ### Contact Me
